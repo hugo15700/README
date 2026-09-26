@@ -8,11 +8,6 @@
         background-color: #000000;
         color: #f0f0f0;
         padding: 5px;
-        transition: 5s;
-    }
-    .contenu:hover {
-        background-color: #f0f0f0;
-        color: #000000;
     }
     .presentation {
         text-align: center;
@@ -24,10 +19,6 @@
         border-radius: 10px;
         padding: 5px;
         transition: 5s;
-    }
-    .footer:hover {
-        background-color: #f0f0f0;
-        color: #410000;
     }
 </style>
 
