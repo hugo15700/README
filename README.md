@@ -17,6 +17,7 @@ J'apprends en autodidacte et j'aime donner vie à mes idées.
 - Vim (quelques fois)<br>
 - Embarcadero Dev C++ (j'ai bientôt l'intention de commencer à apprendre le C/C++)<br>
 - Vue Kanban
+- Microsoft Quantum (sous VS Code)
 </div>
 
 ### Langages:
@@ -25,6 +26,7 @@ J'apprends en autodidacte et j'aime donner vie à mes idées.
 - HTML<br>
 - CSS<br>
 - Scratch (plus précisément Turbowarp)<br>
+- Q# (un peu)
 - Javascript (en cours d'apprentissage)<br>
 - C/C++ (à venir)
 </div>
