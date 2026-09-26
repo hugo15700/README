@@ -1,27 +1,5 @@
 # Hugo: Passionné de programmation informatique
 
-<style type="text/css">
-    div {
-        border-radius: 10px;
-    }
-    .contenu {
-        background-color: #000000;
-        color: #f0f0f0;
-        padding: 5px;
-    }
-    .presentation {
-        text-align: center;
-        font-size: 1.5rem;
-    }
-    .footer {
-        background-color: #410000;
-        color: #f0f0f0;
-        border-radius: 10px;
-        padding: 5px;
-        transition: 5s;
-    }
-</style>
-
 <div class="contenu presentation">
 Bienvenue sur mon profil !<br>
 Je m'appelle Hugo, j'ai 14 ans.<br>
